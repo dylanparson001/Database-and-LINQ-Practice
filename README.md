@@ -1,0 +1,1 @@
+Simple C# console application to learn more about entity framework and interacting with SQL database, creating entities and relationships.
